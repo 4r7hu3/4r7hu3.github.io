@@ -46,7 +46,7 @@ I think it's interesting to keep some files during college time, at least from t
 
 ## Certifications
 
-View my certifications [here](/certifications).
+View my certifications [here](/certifications/certifications.md).
 
 
 
