@@ -18,6 +18,7 @@ It's important to say that the files here don't define my level of knowledge or 
 	- [R Básico](/R Básico-UFC.pdf)
 	- [Encontros Universitários 1](/EU1.pdf)
 	- [Encontros Universitários 2](/EU2.pdf)
+	- [Investimentos](/Investimentos-UFC.pdf)
 	
 - Earned from Others:
 	- [Análise de Dados do Governo](/Análise de Dados de Governo-Souk Analytics.pdf)

@@ -1,14 +1,23 @@
-title: Arthur Silva # your name (or website title) here
-logo: "/images/photo.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Arthur Silva
+logo: "/images/photo.png"
+email: arthursilva.aasdl@gmail.com
+description: >#
   Graduating in Statistics at UFC 
   <br>
   Interested in Data Analysis with
   Python, SQL, Excel, Power BI and ML 
-  <br><br> 
-  <a href="https://www.kaggle.com/arthursdelima">View my Kaggle Profile</a> 
-  <br>
-  <a href="https://github.com/4r7hu3">View my GitHub Profile</a>
+  # <br><br> 
+  # <a href="https://www.kaggle.com/arthursdelima">View my Kaggle Profile</a> 
+  # <br>
+  # <a href="https://github.com/4r7hu3">View my GitHub Profile</a>
   
 theme: jekyll-theme-minimal
-#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 -- Google Analytics tracking ID here
+
+plataforms:
+	- name: Kaggle
+	  icon: <i class="fa-brands fa-kaggle"></i>
+	  link: https://www.kaggle.com/arthursdelima
+	- name: Github
+	  icon: <i class="fa-brands fa-github"></i>
+	  link: https://github.com/4r7hu3
