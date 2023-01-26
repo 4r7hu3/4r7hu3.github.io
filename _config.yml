@@ -1,15 +1,11 @@
 title: Arthur Silva
 logo: "/images/photo.png"
 email: arthursilva.aasdl@gmail.com
-description: >#
+description: >
   Graduating in Statistics at UFC 
   <br>
   Interested in Data Analysis with
   Python, SQL, Excel, Power BI and ML 
-  # <br><br> 
-  # <a href="https://www.kaggle.com/arthursdelima">View my Kaggle Profile</a> 
-  # <br>
-  # <a href="https://github.com/4r7hu3">View my GitHub Profile</a>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 -- Google Analytics tracking ID here
