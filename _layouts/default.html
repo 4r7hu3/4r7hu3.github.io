@@ -46,7 +46,7 @@
 	      	{% if site.platforms %}
 	      	<ul class="link">
 	      		{%- for platform in site.platforms %}
-	      		<li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+	      		<li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;&nbsp;{{ platform.name }}</a></li>
 	      		{%- endfor %}
 	      	</ul>
 	      	{% endif %}
@@ -54,7 +54,7 @@
 	      	
 	    </header>
 	    
-	    <div class="link-wrapper-mobile">
+	    <!-- <div class="link-wrapper-mobile">
 	    	{% if site.platforms %}
 	    	<ul class="link">
 	    	{%- for platform in site.platforms %}
@@ -63,7 +63,7 @@
 	    	{%- endfor %}
 	    	</ul>
 	    	{% endif %}
-	    </div>
+	    </div> -->
 	    
       <section>
       {{ content }}
