@@ -10,14 +10,14 @@ description: >
   <a href="https://www.kaggle.com/arthursdelima">View my Kaggle Profile</a>
   <br>
   <a href="https://github.com/4r7hu3">View my GitHub Profile</a>
-	  
-sidebar:
-	- name: Kaggle
-	  icon: <i class="fa-brands fa-kaggle"></i> 
-	  link: https://www.kaggle.com/arthursdelima
-	- name: GitHub
-	  icon: <i class="fa-brands fa-github"></i>
-	  link: https://github.com/4r7hu3
+
+platforms:
+  - name: Kaggle
+    icon: <i class="fa-brands fa-kaggle"></i>
+    link: https://www.kaggle.com/arthursdelima
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/4r7hu3
 
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 -- Google Analytics tracking ID here
