@@ -2,12 +2,8 @@ title: Arthur Silva
 logo: "assets/img/photo.jpg"
 email: arthursilva.aasdl@gmail.com
 blank_title: true
-description: >
-  Graduating in Statistics at UFC 
-  <br>
-  Interested in Data Analysis with
-  Python, SQL, Excel, Power BI and ML
-
+description: ""
+show_downloads: false
 remote_theme: BDHU/minimalist
 color-scheme: auto
 plugins:
