@@ -3,7 +3,7 @@ layout: default
 title: "Arthur Silva"
 ---
 
-Hi <img class="profile-picture" src="https://github.com/4r7hu3/4r7hu3.github.io/blob/master/assets/img/photo.jpg">, thanks for visiting my portfolio! Currently, I'm a student of Statistics at the Federal University of Ceará ([UFC](https://www.ufc.br/)) dedicating to become a Data Analyst. I've chosen Statistics firstly because I was fascinated by its uses seen during high school, and secondly, because I discovered that Statisticians also work with technology, in which I'm equally passionate about. 
+Hi<img class="profile-picture" src="https://github.com/4r7hu3/4r7hu3.github.io/blob/master/assets/img/logo.jpg">, thanks for visiting my portfolio! Currently, I'm a student of Statistics at the Federal University of Ceará ([UFC](https://www.ufc.br/)) dedicating to become a Data Analyst. I've chosen Statistics firstly because I was fascinated by its uses seen during high school, and secondly, because I discovered that Statisticians also work with technology, in which I'm equally passionate about. 
 
 Before getting into college, I have studied many topics of Computer Science --- such as Databases and Operating Systems --- at [IFCE](https://ifce.edu.br/maracanau) through a technical course, but unfortunately, I had to quit it after the pandemic. However, arriving at the college with this previous knowledge opened up a lot of doors for me.
 
