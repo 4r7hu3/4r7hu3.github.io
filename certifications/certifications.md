@@ -13,7 +13,8 @@ It's important to say that the files here don't define my level of knowledge or 
 	
 - Earned from UFC:
 	- [Git & GitHub](/Git e GitHub-UFC.pdf)
-	- [Python](/Python-UFC.pdf)
+	- [Python (Minicurso)](/minicurso-python.pdf)
+	- [Python (SEST)](/Python-UFC.pdf)
 	- [LaTeX](/LaTeX-UFC.pdf)
 	- [R Básico](/R Básico-UFC.pdf)
 	- [Encontros Universitários 1](/EU1.pdf)
