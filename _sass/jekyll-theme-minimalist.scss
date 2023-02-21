@@ -56,6 +56,11 @@ a:hover small {
   color:var(--clr-small-in-a);
 }
 
+.addr a {
+	color:var(--clr-text);
+	text-decoration:none;
+}
+
 // added
 p.link {
   margin:0 0 4px;
