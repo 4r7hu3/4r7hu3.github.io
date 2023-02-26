@@ -22,7 +22,7 @@ In this section you can find some of my work. As a beginner, I try to do as many
 There, I developed mini-courses of Python, R and G. Sheets within data analysis and data engineering themes. Also acted as the group's treasurer and researcher.
 
 - [Python mini-course](https://github.com/4r7hu3/pet-files/tree/main/Minicursos);
-- [G. Sheets workshop](https://github.com/4r7hu3/pet-files/tree/main/Sheets%202022).
+- [Research Project](https://github.com/4r7hu3/pet-files/tree/main/pet-research).
 
 ### Python/Jupyter
 
