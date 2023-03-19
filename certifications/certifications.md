@@ -8,6 +8,7 @@ It's important to say that the files here don't define my level of knowledge or 
 	- [Data Cleaning](/Data Cleaning-Kaggle.png)
 	- [Data Viz](/Data Visualization-Kaggle.png)
 	- [Pandas](/Pandas-Kaggle.png)
+	- [Int. to SQL](/Intro to SQL-Kaggle.png)
 	- [Int. to Machine Learning](/Intro to Machine Learning-Kaggle.png)
 	- [Geospatial Analysis](/Geospatial Analysis-Kaggle.png)
 	
