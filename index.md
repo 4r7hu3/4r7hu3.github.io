@@ -9,13 +9,11 @@ Before getting into college, I have studied many topics of Computer Science --- 
 
 At UFC, I have several opportunities to improve what I know, while learning a lot with others too. In 2022, for instance, I was part of [PET Estatística](https://sites.google.com/view/petestatisticaufc/) group, developing both soft and hard skills alongside my colleagues, while facing the great natural difficulties imposed by graduation. Now, I'm focusing on learning Excel in depth, to improve my skills at work.
 
-This page is still being improved, but feel free to see my work on GitHub and Kaggle.
-
 ---
 
 ## Projects
 
-In this section you can find some of my work. As a beginner, I try to do as many activities as I can, despite the lack of time in my day to day. Please, remember this page is under development and won't show everything I've done, but suggestions are always welcome!
+In this section you can find some of my work. As a beginner, I try to do as many activities as I can, despite the lack of time in my day to day. Please, remember this page won't show everything I've done, but suggestions are always welcome!
 
 ### PET Estatística UFC
 
