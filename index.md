@@ -7,7 +7,7 @@ Hi<img class="profile-picture" src="https://cdn.jsdelivr.net/gh/4r7hu3/4r7hu3.gi
 
 Before getting into college, I have studied many topics of Computer Science --- such as Databases and Operating Systems --- at [IFCE](https://ifce.edu.br/maracanau) through a technical course, but unfortunately, I had to quit it after the pandemic. However, arriving at the college with this previous knowledge opened up a lot of doors for me.
 
-At UFC, I have several opportunities to improve what I know, while learning a lot with others too. In 2022, for instance, I was part of [PET Estatística](https://sites.google.com/view/petestatisticaufc/) group, developing both soft and hard skills alongside my colleagues, while facing the great natural difficulties imposed by graduation. Now, I'm focusing on learning Excel in depth, to improve my skills at work.
+At UFC, I have several opportunities to improve what I know, while learning a lot with others too. In 2022, for instance, I was part of [PET Estatística](https://sites.google.com/view/petestatisticaufc/) group, developing both soft and hard skills alongside my colleagues, while facing the great natural difficulties imposed by graduation. Now, I'm focusing on learning R and Python in depth, to improve my proficiency in these languages.
 
 ---
 
