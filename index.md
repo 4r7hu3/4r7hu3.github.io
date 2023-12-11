@@ -47,7 +47,7 @@ I think it's interesting to keep some files during college time, for future cons
 
 Several times, I catch myself forgetting some things I really didn't want to, for example, statistical formulas and theorems (fundamental tools for college tests, lol). Thus, I decided to start to do summaries about every possible content I learn, not only college ones. It is a way to constantly exercise my brain, also working as fast manuals when needed.
 
-- [Fast Manuals]()
+- [Fast Manuals](https://github.com/4r7hu3/summaries)
 
 ---
 
