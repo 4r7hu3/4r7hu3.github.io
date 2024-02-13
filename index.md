@@ -14,8 +14,6 @@ I'm currently an undergraduate student in Statistics (final semesters) at the Fe
 - Spreadsheets (+2 years)
 - SQL (+1 year)
 
-<br>
-
 Lately, I've been focusing on learning R and Python in depth, mostly for data cleaning and modeling purposes. I also intend to master other tools required by the market, such as Power BI, AWS and GCP.
 
 As for my hobbies and tastes, I enjoy a lot listening to music (classic rock + alternative/indie genres), watching movies and TV shows, reading a good book while having some coffee, and going out with my family and friends.
@@ -41,8 +39,6 @@ Here there are a few of my efforts to evolve my data science knowledge, using va
 - [Best Sellings Analysis](https://github.com/4r7hu3/data-science-learning/tree/main/AED%20Amazon%20Best%20Sellings): my first project of my own, in which I wanted to get insights from books sold on Amazon (I'm a huge fan of Sci-Fi and Fantasy books);
 - [ggplot2](https://github.com/4r7hu3/data-science-learning/tree/main/Visualization/ggplot2): a hands-on the most simple and efficient plot library I've worked with, as part of a Google certification;
 - [Google](https://github.com/4r7hu3/data-science-learning/tree/main/Google): files from the Google IT Automation with Python Professional Certificate.
-
-<br>
 
 All of the files above, you can find on [this](https://github.com/4r7hu3/data-science-learning) public repo on GitHub, along with some other useful things.
 
