@@ -3,13 +3,22 @@ layout: default
 title: "Arthur Silva"
 ---
 
-## The Who
+## The Who 
 
-Hi<img class="profile-picture" src="https://cdn.jsdelivr.net/gh/4r7hu3/4r7hu3.github.io/assets/img/logo.jpg">, thanks for visiting my portfolio! Currently, I'm a student of Statistics at the Federal University of Ceará ([UFC](https://www.ufc.br/)) dedicating to become a Data Scientist. I've chosen Statistics firstly because I was fascinated by its uses seen during high school, and secondly, because I discovered that Statisticians also work with technology, in which I'm equally passionate about. 
+Hey<img class="profile-picture" src="https://cdn.jsdelivr.net/gh/4r7hu3/4r7hu3.github.io/assets/img/logo.jpg">, thanks for visiting my portfolio! 
 
-Before getting into college, I have studied many topics of Computer Science --- such as Databases and Operating Systems --- at [IFCE](https://ifce.edu.br/maracanau) through a technical course, but unfortunately, I had to quit it after the pandemic. However, arriving at the college with this previous knowledge opened up a lot of doors for me.
+I'm currently an undergraduate student in Statistics (final semesters) at the Federal University of Ceará ([UFC](https://www.ufc.br/)), interested in Statistics headed to Data Science/Data Analytics, who's skilled with:
 
-At UFC, I have several opportunities to improve what I know, while learning a lot with others too. In 2022, for instance, I was part of [PET Estatística](https://sites.google.com/view/petestatisticaufc/) group, developing both soft and hard skills alongside my colleagues, while facing the great natural difficulties imposed by graduation. Now, I'm focusing on learning R and Python in depth, to improve my proficiency in these languages.
+- R (+3 years)
+- Python (+2 years)
+- Spreadsheets (+2 years)
+- SQL (+1 year)
+
+<br>
+
+Lately, I've been focusing on learning R and Python in depth, mostly for data cleaning and modeling purposes. I also intend to master other tools required by the market, such as Power BI, AWS and GCP.
+
+As for my hobbies and tastes, I enjoy a lot listening to music (classic rock + alternative/indie genres), watching movies and TV shows, reading a good book while having some coffee, and going out with my family and friends.
 
 ---
 
@@ -24,12 +33,18 @@ There, I developed mini-courses of Python, R and G. Sheets within data analysis 
 - [Python mini-course](https://github.com/4r7hu3/pet-files/tree/main/Minicursos);
 - [Research Project](https://github.com/4r7hu3/pet-files/tree/main/pet-research).
 
-### Python/Jupyter
+### Data Science Learning
 
-Here there are a few of my efforts to get the most out of Python and Notebooks, using vacation activities and my curiosity in order to improve my knowledge and learn a bit more.
+Here there are a few of my efforts to evolve my data science knowledge, using vacation activities, courses, and my curiosity in order to improve my knowledge and learn a bit more.
 
 - [Vacation Activity](https://github.com/4r7hu3/data-science-learning/tree/main/Atividade%20de%20F%C3%A9rias): work made by PET Estatística, reproduced with slightly changes;
-- [Best Sellings Analysis](https://github.com/4r7hu3/data-science-learning/tree/main/AED%20Amazon%20Best%20Sellings): my first project of my own, in which I wanted to get insights from books sold on Amazon (I'm a huge fan of Sci-Fi and Fantasy books).
+- [Best Sellings Analysis](https://github.com/4r7hu3/data-science-learning/tree/main/AED%20Amazon%20Best%20Sellings): my first project of my own, in which I wanted to get insights from books sold on Amazon (I'm a huge fan of Sci-Fi and Fantasy books);
+- [ggplot2](https://github.com/4r7hu3/data-science-learning/tree/main/Visualization/ggplot2): a hands-on the most simple and efficient plot library I've worked with, as part of a Google certification;
+- [Google](https://github.com/4r7hu3/data-science-learning/tree/main/Google): files from the Google IT Automation with Python Professional Certificate.
+
+<br>
+
+All of the files above, you can find on [this](https://github.com/4r7hu3/data-science-learning) public repo on GitHub, along with some other useful things.
 
 ### Databases
 
