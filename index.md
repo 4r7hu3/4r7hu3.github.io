@@ -7,7 +7,7 @@ title: "Arthur Silva"
 
 Hey<img class="profile-picture" src="https://cdn.jsdelivr.net/gh/4r7hu3/4r7hu3.github.io/assets/img/logo.jpg">, thanks for visiting my portfolio! 
 
-I'm currently an undergraduate student in Statistics (final semesters) at the Federal University of Ceará ([UFC](https://www.ufc.br/)), interested in Statistics headed to Data Science/Data Analytics, who's skilled with:
+I'm currently an undergraduate student in Statistics (final semesters) at the Federal University of Ceará ([UFC](https://www.ufc.br/)), interested in Statistics headed to Data Science/Data Analytics, and skilled with:
 
 - R (+3 years)
 - Python (+2 years)

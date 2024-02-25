@@ -18,11 +18,14 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    
     {% if site.cdn.jsdelivr.enabled %}
       <link rel="preload" href="{{ assets_base_url }}{{ site.logo }}" as="image">
     {% else %}
       <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
     {% endif %}
+
+    {% include head-custom.html %}
     
   </head>
   <body>
