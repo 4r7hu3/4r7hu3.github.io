@@ -6,6 +6,7 @@ description: ""
 show_downloads: false
 remote_theme: BDHU/minimalist
 color-scheme: auto
+favicon: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
