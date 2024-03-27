@@ -5,7 +5,8 @@ On this page you can see some of my certifications, acquired from many different
 It's important to say that the files here don't define my level of knowledge or experience, instead, it is a way of showing the paths I'm following to achieve my goals as a beginner student in the "Age of Data".
 
 - Data Analysis related:
-	- [Google Data Analytics](Google Data Analytics.pdf)
+	- [Google Data Analytics](/Google Data Analytics.pdf)
+	- [Python Intermediário](/python-intermediário.pdf)
 	- [Pandas](/Pandas-Kaggle.png)
 	- [Data Cleaning](/Data Cleaning-Kaggle.png)
 	- [Data Viz](/Data Visualization-Kaggle.png)
