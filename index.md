@@ -64,7 +64,7 @@ Several times, I catch myself forgetting some things I really didn't want to, fo
 
 ## Certifications
 
-View my certifications [here](/certifications/certifications.md).
+View my certifications [here](./certifications/certifications.html).
 
 <br>
 

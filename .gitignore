@@ -1,0 +1,5 @@
+_site
+Gemfile
+Gemfile.lock
+jekyll-theme-minimalist.gemspec
+.jekyll-cache
