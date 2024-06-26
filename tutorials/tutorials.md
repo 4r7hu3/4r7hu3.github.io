@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Tutorials
 ---
 
 ## [The Who](../index.html) &nbsp; [Projects](../projects/projects.html) &nbsp; Tutorials &nbsp; [Certifications](../certifications/certifications.html)
