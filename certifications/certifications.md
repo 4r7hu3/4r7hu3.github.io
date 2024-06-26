@@ -24,7 +24,7 @@ It's important to say that the files here don't define my level of knowledge or 
 	- [Data Cleaning](Data Cleaning-Kaggle.png){:target="_blank"}
 	- [Data Viz](Data Visualization-Kaggle.png){:target="_blank"}
 	- [Geospatial Analysis](Geospatial Analysis-Kaggle.png){:target="_blank"}
-	- [Int. to Machine Learning](Intro to Machine Learning-Kag{:target="_blank"}gle.png)
+	- [Int. to Machine Learning](Intro to Machine Learning-Kaggle.png){:target="_blank"}
 	- [Análise de Dados do Governo](Análise de Dados de Governo-Souk Analytics.pdf){:target="_blank"}
 	
 - Programs & Tools:
